@@ -1,0 +1,11 @@
+{
+    "python.envFile": "${workspaceFolder}/.vscode/custom.env",
+    "editor.wordWrap": "on",
+    "python.analysis.extraPaths": [
+        "lite_hrnet"
+    ],
+    "python.autoComplete.extraPaths": [
+        "lite_hrnet"
+    ],
+    "jupyter.notebookFileRoot": "${fileDirname}",
+}
