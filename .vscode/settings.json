@@ -1,11 +1,12 @@
 {
+    "python.languageServer": "Jedi",
     "python.envFile": "${workspaceFolder}/.vscode/custom.env",
     "editor.wordWrap": "on",
     "python.analysis.extraPaths": [
-        "lite_hrnet"
+        "lib"
     ],
     "python.autoComplete.extraPaths": [
-        "lite_hrnet"
+        "lib"
     ],
     "jupyter.notebookFileRoot": "${fileDirname}",
 }
